@@ -1,0 +1,14 @@
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\PM_SerPlugin.dll
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\PM_SerPlugin.pdb
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\Newtonsoft.Json.dll
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\OTAPI.dll
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\TerrariaServer.exe
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\TShockAPI.dll
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\Newtonsoft.Json.xml
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\OTAPI.pdb
+F:\Code\PluginMannager\PM_SerPlugin\bin\Debug\TerrariaServer.pdb
+F:\Code\PluginMannager\PM_SerPlugin\obj\Debug\PM_SerPlugin.csprojAssemblyReference.cache
+F:\Code\PluginMannager\PM_SerPlugin\obj\Debug\PM_SerPlugin.csproj.CoreCompileInputs.cache
+F:\Code\PluginMannager\PM_SerPlugin\obj\Debug\PM_SerPlugin.csproj.CopyComplete
+F:\Code\PluginMannager\PM_SerPlugin\obj\Debug\PM_SerPlugin.dll
+F:\Code\PluginMannager\PM_SerPlugin\obj\Debug\PM_SerPlugin.pdb
